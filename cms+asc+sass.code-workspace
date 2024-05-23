@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\asc-php"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\sass_sir"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "asc-php"
+	}
+}
